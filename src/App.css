@@ -34,3 +34,9 @@ a{
   margin-right: 25%;
   height: 200px;
 }
+
+.profileName{
+  padding: 2%;
+  height: 10%;
+  float: left;
+}
